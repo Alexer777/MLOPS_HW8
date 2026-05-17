@@ -32,6 +32,3 @@
 **Детекция:** Мониторинг метрики `input_tensor_shape` или `processing_time`.
 
 ## 4. Data Quality Incident
-Инцидент типа **Data Drift** был успешно детектирован в DQOps.
-*   **Причина:** Удаление колонки `probability` и изменение типа `prediction_class`.
-*   **Доказательство:** Скриншот `dqops_incident.png` (в корне репозитория).
